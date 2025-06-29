@@ -1,12 +1,14 @@
 import React from 'react'
 import Navbar from './sections/Navbar.jsx'
 import Hero from "./sections/Hero.jsx"
+import About from './sections/About.jsx'
 function App() {
   return (
     <div className='container mx-auto max-w-7xl'>
       <Navbar/>
       <Hero/>
-      <section className='h-screen' ></section>
+      <About/>
+      {/* <section className='h-screen' ></section> */}
     </div>
   )
 }

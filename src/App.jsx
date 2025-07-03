@@ -11,7 +11,7 @@ function App() {
       <Navbar/>
       <Hero/>
       <About/>
-      <Projects/>
+      <Projects />
       {/* <Contact/> */}
       <Footer/>
       {/* <section className='h-screen' ></section> */}

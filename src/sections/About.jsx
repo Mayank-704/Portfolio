@@ -67,7 +67,7 @@ const About = () => {
             />
             <Card
               style={{ rotate: "-45deg", top: "70%", left: "25%" }}
-              image="assets/logos/mongodb.svg"
+              image="assets/logos/mongoDB.svg"
               containerRef={grid2Container}
             />
             <Card

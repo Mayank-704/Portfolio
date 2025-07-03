@@ -1,4 +1,3 @@
-// import { mySocials } from "../constants";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
@@ -13,20 +12,20 @@ const Footer = () => {
         <p>Privacy Policy</p>
       </div>
       <div className="flex gap-3">
-          <a href="https://github.com/Mayank-704">
-          <FaGithub size={24} className="hover:scale-130"/>
+          <a href="https://github.com/Mayank-704" target="_blank" rel="noopener noreferrer">
+            <FaGithub size={24} className="hover:scale-130"/>
           </a>
-          <a href="https://www.linkedin.com/in/mayank-gupta-03971a294">
+          <a href="https://www.linkedin.com/in/mayank-gupta-03971a294" target="_blank" rel="noopener noreferrer">
             <FaLinkedin size={24} className="hover:scale-130"/>
           </a>
-          <a href="https://x.com/_Mayank_704">
+          <a href="https://x.com/_Mayank_704" target="_blank" rel="noopener noreferrer">
             <FaXTwitter size={24} className="hover:scale-130"/>
           </a>
-          <a href="mailto:gupta.mayank.tech@gmail.com">
+          <a href="mailto:gupta.mayank.tech@gmail.com" target="_blank" rel="noopener noreferrer">
              <IoMail size={24} className="hover:scale-130"/>
           </a>
       </div>
-      <p>© 2025 Mayank. Portfolio inspired by <a className="cursor-pointer" href="https://www.linkedin.com/in/ali-sanati/">Ali Sanati</a></p>
+      <p>© 2025 Mayank. Portfolio inspired by <a className="cursor-pointer" href="https://www.linkedin.com/in/ali-sanati/" target="_blank" rel="noopener noreferrer">Ali Sanati</a></p>
     </section>
   );
 };

@@ -1,6 +1,7 @@
 import { OrbitingCircles } from "./OrbitingCircles.jsx";
 
 export function Frameworks() {
+
 const skills = [
   "html5",
   "css3",

@@ -27,7 +27,7 @@ const content = [
         <img src="/assets/logos/react.svg" alt="React" className="inline h-5 ml-1" />
         <img src="/assets/logos/tailwindcss.svg" alt="TailwindCSS" className="inline h-5 ml-1" />
         <img src="/assets/logos/expressjsWhite.svg" alt="Express" className="inline h-5 ml-1" />
-        <img src="/assets/logos/mongoDB.svg" alt="MongoDB" className="inline h-5 ml-1" />
+        <img src="/assets/logos/mongodb.svg" alt="MongoDB" className="inline h-5 ml-1" />
       </>
     ),
     content: (
@@ -63,7 +63,7 @@ const content = [
         <img src="/assets/logos/react.svg" alt="React" className="inline h-5 ml-1" />
         <img src="/assets/logos/tailwindcss.svg" alt="TailwindCSS" className="inline h-5 ml-1" />
         <img src="/assets/logos/expressjsWhite.svg" alt="Express" className="inline h-5 ml-1" />
-        <img src="/assets/logos/postgreSQL.svg" alt="postgreSQL" className="inline h-5 ml-1" />
+        <img src="/assets/logos/postgresql.svg" alt="postgreSQL" className="inline h-5 ml-1" />
       </>
     ),
     content: (
@@ -99,7 +99,7 @@ const content = [
         <img src="/assets/logos/react.svg" alt="React" className="inline h-5 ml-1" />
         <img src="/assets/logos/tailwindcss.svg" alt="TailwindCSS" className="inline h-5 ml-1" />
         <img src="/assets/logos/expressjsWhite.svg" alt="Express" className="inline h-5 ml-1" />
-        <img src="/assets/logos/postgreSQL.svg" alt="postgreSQL" className="inline h-5 ml-1" />
+        <img src="/assets/logos/postgresql.svg" alt="postgreSQL" className="inline h-5 ml-1" />
       </>
     ),
     content: (

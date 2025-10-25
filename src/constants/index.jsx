@@ -263,7 +263,19 @@ export const mySocials = [
 export const experiences = [
   {
     title: "Frontend Intern",
-    job: "Eagle Verse Technologies Pvt. Ltd.",
+    job: (
+      <>
+        Eagle Verse Technologies Pvt. Ltd.
+        <a
+          href="https://www.linkedin.com/company/eagleverse"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="ml-2 underline text-blue-300"
+        >
+          [LinkedIn]
+        </a>
+      </>
+    ),
     date: "July 2025 - Oct 2025",
     contents: [
       "Built responsive user interfaces and integrated REST APIs.",

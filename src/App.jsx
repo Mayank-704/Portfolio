@@ -13,8 +13,8 @@ function App() {
       <Navbar/>
       <Hero/>
       <About/>
-      <Experiences />
       <Projects />
+      <Experiences />
       {/* <Contact/> */}
       <Footer/>
       {/* <section className='h-screen' ></section> */}
